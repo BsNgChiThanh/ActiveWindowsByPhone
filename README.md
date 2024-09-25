@@ -9,7 +9,7 @@
 - Dán dòng lệnh dưới đây:
  
     ```php
-    irm https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Windows/IMP/ActiveWindowsByPhone.ps1 | iex
+    irm https://raw.githubusercontent.com/BsNgChiThanh/ActiveWindowsByPhone/IMP/ActiveWindowsByPhone.ps1 | iex
     ```
 - ![image](https://github.com/user-attachments/assets/ea27fcc3-2b4d-47a0-a9a4-d0e79048608e)
 - Bấm enter, sau đó làm theo chỉ dẫn là xong!
