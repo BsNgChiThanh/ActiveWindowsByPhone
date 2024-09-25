@@ -1,2 +1,3 @@
-# ActiveWindowsByPhone
-Kích hoạt Windows bằng By Phone
+# Active Windows ByPhone #
+    - Kích hoạt Windows bằng By Phone
+    - Đang cập nhật
